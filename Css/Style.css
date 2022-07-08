@@ -1,0 +1,30 @@
+
+h1{
+      color: blue;
+      font-size: 17px;
+      margin: 20px;
+      border: 3px dotted;
+      padding: 15px;
+  }
+
+ol{
+  color: blue;
+  font-size: 17px;
+}
+
+body{
+  background-color: pink;
+}
+
+img {
+  border: 20px orange solid ;
+  width: 120px;
+  height: 120px;
+}
+li:hover{
+  height: 150px;
+  width:  150px;
+}
+li{
+   transition: 0.3s ease;
+ }
